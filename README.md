@@ -1,0 +1,1 @@
+# Python-Mercado-Financeiro-Modelo-com-Media-Movel
